@@ -1,2 +1,2 @@
-# Discrete
-Math
+"# DiscreteMathematics" 
+"# DiscreteMathematics" 
